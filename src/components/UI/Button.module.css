@@ -1,0 +1,15 @@
+.button {
+    border: 1px solid teal;
+    border-radius: 5px;
+    background: teal;
+    color: white;
+    font-weight: bold;
+    padding: 0.25rem 1rem;
+    cursor: pointer;
+}
+
+.button:hover,
+.button:active{
+    background: rgb(0, 163, 163);
+    border-color: rgb(0, 163, 163);
+}
